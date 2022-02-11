@@ -22,4 +22,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # Elixir Stuffs
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.elixir.maintainer=Cyder
-    org.elixir.device=Samsung Galaxy Note 9
+    org.elixir.device=Samsung Galaxy S9+
